@@ -1,4 +1,4 @@
 # AnalizaBesedd
 Repozitorij za analizo besed s pomočjo Pythona
-# Avtorji
+## Avtorji
 Mia Čakarova
